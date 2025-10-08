@@ -151,4 +151,35 @@ jio
 print(df.mean())
 """
 
+"""
+Arquitectura MVT
+La arquitectura MVT se divide en 3 partes, por sus siglas MVT:
+View: Es la parte lógica y decide que se envía y que no
+Model: Es el modelo que dice como está hecho cierto objeto y se comunica directamente con la BD
+Template: Es la vista que se le presenta al usuario, recibe datos del View
+"""
 
+"""
+Una API Rest es una interfaz de comunicacion entre sistemas a través de métodos HTTP, por ejemplo:
+GET: Pide datos
+POST: Envía datos
+PUT: Actualiza datos
+DELETE: Elimina datos
+
+"""
+
+
+"""
+Una librería es un conjunto de funciones o clases que podemos implementar en nuestro código si consideramos necesario
+Ejemplos de estas librerías:
+Numpy: Librería escrita en C++ para que python pueda delegar trabajos relacionados a números para una compilación más rápida y eficiente
+matplotlib: Librería básica para crear gráficos a partir de datasets
+seaborn: Librería basada en matplotlib que ofrece más funciones sobre matplotlib
+
+"""
+
+
+"""
+
+
+"""
